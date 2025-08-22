@@ -12,6 +12,9 @@ object pepita {
     energia = energia + alimento.valorEnergetico()
     
   }
+  method energia () { 
+    return energia 
+  }
 }
 
 object alpiste {
